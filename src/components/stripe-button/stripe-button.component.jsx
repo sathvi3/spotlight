@@ -16,7 +16,7 @@ const StripeCheckoutButton = ({ price }) => {
       name="SpotLight | Love for Fashion"
       billingAddress
       shippingAddress
-      image="https://svgshare.com/i/QEr.svg"
+      image="https://svgshare.com/i/QFW.svg"
       description={`Your total is $${price}`}
       amount={priceForStripe}
       panelLabel="Pay Now"
